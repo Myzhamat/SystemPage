@@ -2,7 +2,7 @@
     "title": "Agency",
     "name": "startbootstrap-agency",
     "version": "4.1.1",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Agency is a one page HTML theme for Zhamat Sistemas.",
     "keywords": [
         "css",
         "sass",
@@ -17,9 +17,9 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Zhamat Sistemas",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Wilson Vargas (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
